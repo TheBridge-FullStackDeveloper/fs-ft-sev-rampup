@@ -18,40 +18,62 @@
 
 <br>
 
+### DIA 1:
+---
+
+:scroll: Tipos de datos
+
 :scroll: Variables [Let](https://www.w3schools.com/js/js_let.asp) / [Const](https://www.w3schools.com/js/js_const.asp)
 
 :scroll: Condicionales [If Else](https://www.w3schools.com/js/js_if_else.asp)
+
+
+:scroll: Operadores [Asignación y Lógicos && ||](https://www.w3schools.com/js/js_assignment.asp) / [Comparación](https://www.w3schools.com/js/js_comparisons.asp)
+
+EJERCICIO REQUERIDO:
+
+:crossed_swords: [Bikram](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-bikram-var-bucles-condicionales)
+
+<br>
+
+### DIA 2
+---
+
+**9:00 - 9:30:** 
+
+:scroll: [REPASO] variables, operadores aritméticos,de comparación y lógicos. Estructura de control IF/ELSE.
+
+**9:30 - 10:30:**
 
 :scroll: :unicorn: Condicionales [Switch](https://www.w3schools.com/js/js_switch.asp)
 
 :scroll: Bucles [For](https://www.w3schools.com/js/js_loop_for.asp) / [While](https://www.w3schools.com/js/js_loop_while.asp)
 
-:scroll: Operadores [Asignación](https://www.w3schools.com/js/js_assignment.asp) / [Comparación](https://www.w3schools.com/js/js_comparisons.asp)
-
-:crossed_swords: [Bikram](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-bikram-var-bucles-condicionales)
-
-:shinto_shrine: [FizzBuzz+](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-fizzbuzz)
-
-<br>
-
----
-
- <br>
+**10:30 - 11:30**
 
 :scroll: [Arrays](https://www.w3schools.com/js/js_arrays.asp)
 
 :scroll: [Funciones](https://www.w3schools.com/js/js_arrow_function.asp)
 
-:crossed_swords: [Bikram](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-bikram-array-funciones)
+**EJERCICIOS REQUERIDOS**
 
 :shinto_shrine: [Chauchat](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-chauchat)
 
+:shinto_shrine: [FizzBuzz+](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-fizzbuzz)
 
 <br>
 
+### DIA 3
 ---
 
-<br>
+**9:00 - 9:30:** 
+
+[REPASO] BUCLES, ARRAYS Y FUNCIONES.
+
+:crossed_swords: [Bikram](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-bikram-array-funciones)
+
+
+**9:30 - 10:30:**
 
 :scroll: [Objetos](https://www.w3schools.com/js/js_objects.asp)
 
@@ -61,17 +83,42 @@
 
 :scroll: [Métodos de arrays](https://www.w3schools.com/js/js_array_methods.asp)
 
-:crossed_swords: [Bikram](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-bikram-objetos)
+
+**10:30 - 11:30:**
+
+**EJERCICIO REQUERIDO:**
 
 :shinto_shrine: [Constantino Romero](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-constantino-romero) :lion:
 
-
 <br>
 
+**12:00 - 14:00:**
+
+TERMINAR Y ENTREGAR TRABAJO FIN RAMP UP
+
+### DIA 4:
 ---
 
+**9:00 - 10-30:**
+
+:scroll: [REPASO] OBJETOS
+
+:crossed_swords: [Bikram](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-bikram-objetos)
+
 <br>
 
+**10:30 - 11-30:**
+
+ INTRO DOM
+
+**12:00 - 14:00**
+EXPONER A LA CLASE TRABAJO FIN RAMP UP 
+
+--- 
+
+
+### CONTENIDOS PARA DIA 1 Y DIA 2 CORE (SEMANA 3)
+ --- 
 :scroll: [DOM](https://www.w3schools.com/js/js_htmldom.asp)
 
 :scroll: [Métodos del DOM](https://www.w3schools.com/js/js_htmldom_methods.asp)
@@ -92,12 +139,6 @@
 
 :shinto_shrine: [Bichomon](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-bichomon)
 
-<br>
-
----
-
-<br>
-
 :space_invader: [Ejemplo de ayuda](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-ejemplos-validacion-formularios)
 
 :scroll: [Validación de formularios](https://www.w3schools.com/js/js_validation.asp)
@@ -109,6 +150,3 @@
 :scroll: [HTMLFormElements](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement)
 
 :european_castle: [Quiz](https://github.com/TheBridge-FullStackDeveloper/proyectos-quiz)
-
-<br>
-
